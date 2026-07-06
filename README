@@ -1,23 +1,138 @@
-README.md under construction
-Kid‑Simple Version
-What is ProjectCompass? It’s a map made of four directions:
-Life
-Mind
-Truth
-Love
-And a top point called Apex (like the tip of a pyramid).
-It helps people understand:
-where they are
-how they feel
-how to grow
-how to find calm
-how to move upward inside themselves
-We are not the bosses of this map. We are just players using it.
-Everyone is invited.
-Adult‑Clean Version
-ProjectCompass is a geometric awareness framework built on four directional states — Life, Mind, Truth, and Love — and an upward crown state called Apex. It provides a clear, grounded structure for understanding flow, coherence, and human awareness without metaphysics or dogma.
-This repository presents the first‑generation architecture of ProjectCompass. It is not a claim of ownership over any larger system; it is one layer of a broader matrix. We are participants, not gatekeepers. This work is an invitation for commentary, collaboration, and exploration.
+Overview
+ProjectCompass is an open‑source clarity and rhythm framework built from directions, geometry, lunar cycles, and mythic timing.
+It teaches people how to live inside coherent rhythms — daily, weekly, monthly, seasonal, and lunar — using gentle‑adult explanations, mythic structure, and accessible timing tools.
 
+This repository contains:
+
+the ProjectCompass Wiki (Levels 1–3)
+
+the Medium Series archive
+
+lunar resources
+
+diagrams, charts, and timing wheels
+
+Kids Compass + Audio Series scaffolding
+
+open‑source educational materials
+
+Everything here is designed to be simple, structured, and sustainable.
+
+Levels
+ProjectCompass is organized into three learning layers:
+
+Level 1 — First Level
+Beginner rhythm literacy:
+
+shapes (line, circle, spiral)
+
+daily/weekly/monthly rhythms
+
+simple lunar timing
+
+foundational timing questions
+
+Wiki: /wiki/1-first-level.md
+
+Level 2 — Medium Level
+Gentle‑adult learning:
+
+Hero + Feminine mythic timing
+
+lunar cycles
+
+4‑week lunar ritual
+
+global lunar trackers
+
+Medium article scaffolding
+
+Wiki: /wiki/2-medium-level.md
+
+Level 3 — Friday Level
+Advanced rhythm literacy:
+
+12‑sign rhythm grid
+
+Hero/Feminine seasons by sign
+
+personal lunar timing map
+
+deeper mythic synthesis
+
+Wiki: /wiki/3-friday-signs.md
+
+Medium Series
+The ProjectCompass Medium Series explores mythic timing, lunar rhythm, creative coherence, and gentle‑adult learning.
+
+Articles are published weekly and archived here.
+
+Series link: (add your Medium link here)
+
+Publishing rhythm:
+
+July: 2 posts/week
+
+August: 3 posts/week
+
+September: 4 posts/week (if comfortable)
+
+Lunar Resources (Real‑Time Tracking)
+ProjectCompass uses world‑class lunar data sources:
+
+NASA — Moon Phase & Libration  
+https://svs.gsfc.nasa.gov/5048 (svs.gsfc.nasa.gov in Bing)
+
+TheSkyLive (EU)  
+https://theskylive.com/moon-info
+
+TimeAndDate (Global)  
+https://www.timeanddate.com/moon/
+
+ESA — Lunar Science  
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Moon (esa.int in Bing)
+
+These tools support timing literacy and lunar‑based rhythm planning.
+
+📁 Repository Structure
+Code
+/wiki
+   Level 1 — First Level
+   Level 2 — Medium Level
+   Level 3 — Friday Level
+
+/drafts
+   Google Docs drafts mirrored here when finalized
+
+/visuals
+   diagrams, charts, lunar wheels, sign grids
+
+/medium
+   archived Medium articles
+
+/readme
+   project overview and navigation
+🧩 How to Use This Repo
+Start with Level 1  
+Learn shapes, rhythms, and simple lunar timing.
+
+Move to Level 2  
+Explore mythic timing, Hero/Feminine cycles, and lunar rituals.
+
+Read Level 3  
+Discover your sign’s rhythm and personal lunar timing map.
+
+Follow the Medium Series  
+Weekly articles deepen your rhythm literacy.
+
+Use the lunar trackers  
+Align your timing with real‑time moon phases.
+
+Check the Wiki  
+All ProjectCompass knowledge lives there.
+
+Change Log
+Code
 2026‑07‑06 — Added Level 1, Level 2, Level 3 Wiki pages
 2026‑07‑06 — Replaced README with full ProjectCompass structure
 2026‑07‑07 — Added Medium Series outline and lunar resources
