@@ -8,17 +8,17 @@ This repository is the studio and archive for the Cosmic Antenna project — par
 
 ### What’s Inside
 
-- **brand-bible/** — Mission, tone, character style, principles  
-- **characters/** — Scorpy, Helpers, Planets, Sky Lights  
+- **brand-bible/** — Mission, tone, character style, justice & humor principles  
+- **characters/** — Scorpy, Helpers (Fiery, Breezy, Steady), Planets, Sky Lights  
 - **stories/** — Weekly and monthly stories + Choice Point series  
 - **cycles/** — Moon phases, aspects, and transit guides  
-- **printables/** — Helper cards, coloring pages, rituals  
-- **custom-stories/** — Templates for personalized and holiday stories  
-- **social-media/** — Plans, scripts, and content ideas  
-- **gift-upsells/** — Monthly, birthday, and holiday gift ideas  
-- **almanacs/** — Annual and family cosmic story templates  
+- **printables/** — Helper cards, coloring pages, rituals, holiday packages  
+- **custom-stories/** — Templates for personalized, birthday, and holiday stories  
+- **social-media/** — Weekly plans, scripts, video prompts, and ad copy  
+- **gift-upsells/** — Monthly, holiday, birthday, and custom child gift packs  
+- **almanacs/** — Adult monthly, annual cosmic almanac, and family tree stories  
 - **assets/** — Images, audio clips, logos, and media files  
-- **archive/** — Old drafts, unused ideas, retired templates  
+- **archive/** — Old drafts, unused ideas, and retired templates  
 
 ### How to Use This Repo
 
